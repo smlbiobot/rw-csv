@@ -1,0 +1,5 @@
+"Name","TID","Resource","Amount","IconSWF","IconExportName"
+"String","String","String","int","string","string"
+"Gold1","TID_RESOURCE_PACK_GOLD_SMALL","Gold",1000,"sc/ui_portraits.sc","shop_currency_gold_01"
+"Gold2","TID_RESOURCE_PACK_GOLD_MEDIUM","Gold",10000,"sc/ui_portraits.sc","shop_currency_gold_02"
+"Gold3","TID_RESOURCE_PACK_GOLD_BIG","Gold",100000,"sc/ui_portraits.sc","shop_currency_gold_03"
